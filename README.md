@@ -15,8 +15,8 @@ to deal with divs, their classes and such #yay).
 
 ## Installation
 Just clone the repository and build this with `cabal install`.
-If you don't have Haskell environment installed, ~~you can download
-builds for your platform (Windows or UNIX/Ubuntu)~~ (not yet, I will add them).
+If you don't have Haskell environment installed, you can download
+builds for your platform (Windows or ~~UNIX/Ubuntu~~ (not yet, I will add that)).
 
 ## Input file syntax
 _spgen_ currently doesn't care what you write, doesn't escape anything.
@@ -46,7 +46,6 @@ This will be
 three columns
 ----------------------------
 in a colourful section.
-----------------------------
 
 ::::::::::::::::::::::::::::
 :dark:
